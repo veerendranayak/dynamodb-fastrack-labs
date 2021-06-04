@@ -5,7 +5,7 @@ weight = 1
 pre = "<b></b>"
 +++
 
-In this module, you will see how DynamoDB on-demand mode is able scale up capacity with increase in traffic. Also, we will look at Cloudwatch console to review DynamoDB metrics.
+In this  module, you will see how DynamoDB on-demand mode is able scale up capacity with increase in traffic. Also, we will look at Cloudwatch console to review DynamoDB metrics.
 
 1. Run following code to create a data file with 200K items
 
