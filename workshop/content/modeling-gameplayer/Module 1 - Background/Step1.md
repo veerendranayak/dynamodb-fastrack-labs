@@ -5,7 +5,7 @@ weight = 1
 pre = "<b></b>"
 +++
 
-1. Connect to the portal by browsing to https://dashboard.eventengine.run/.
+1. Connect to the portal by browsing to  https://dashboard.eventengine.run/.
 
 2. Enter the provided hash in the text box. The button on the bottom right corner changes to Accept Terms & Login. Click on that button to continue.
 
